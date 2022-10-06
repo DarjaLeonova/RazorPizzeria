@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SCBtKeWliIT+f42LGCOzLLyZjlCETnhQedhzfXZgkL6EhFwTPcCkR9fvg+hT1DAyQrG67W8a4uX5B7ufXFVNxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\darja\\RiderProjects\\RazorPizzeria\\RazorPizzeria\\RazorPizzeria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\darja\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.5\\microsoft.netcore.app.ref.6.0.5.nupkg.sha512",
+    "C:\\Users\\darja\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.5\\microsoft.windowsdesktop.app.ref.6.0.5.nupkg.sha512",
+    "C:\\Users\\darja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.5\\microsoft.aspnetcore.app.ref.6.0.5.nupkg.sha512",
+    "C:\\Users\\darja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.5\\microsoft.netcore.app.host.win-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
