@@ -4,8 +4,16 @@
     <projectFile>RazorPizzeria/RazorPizzeria.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e04ea65-a323-4cd1-946b-94ffc0c5fe5c" name="Default Changelist" comment="Added image to main page">
+    <list default="true" id="7e04ea65-a323-4cd1-946b-94ffc0c5fe5c" name="Default Changelist" comment="Added pages">
+      <change afterPath="$PROJECT_DIR$/RazorPizzeria/Pages/Checkout/ThankYou.cshtml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RazorPizzeria/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RazorPizzeria/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPizzeria/Pages/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/Pages/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPizzeria/bin/Debug/net6.0/RazorPizzeria.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/bin/Debug/net6.0/RazorPizzeria.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPizzeria/bin/Debug/net6.0/RazorPizzeria.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/bin/Debug/net6.0/RazorPizzeria.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/RazorPizzeria.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/RazorPizzeria.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/RazorPizzeria.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/RazorPizzeria.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/ref/RazorPizzeria.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/ref/RazorPizzeria.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/refint/RazorPizzeria.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/refint/RazorPizzeria.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +31,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="mock://C:/Users/darja/RiderProjects/RazorPizzeria/RazorPizzeria/Pages/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/darja/RiderProjects/RazorPizzeria/RazorPizzeria/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/darja/RiderProjects/RazorPizzeria/RazorPizzeria/Pages/Checkout/Checkout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/darja/RiderProjects/RazorPizzeria/RazorPizzeria/Pages/Error.cshtml.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/darja/RiderProjects/RazorPizzeria/RazorPizzeria/Pages/Error.cshtml.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/darja/RiderProjects/RazorPizzeria/RazorPizzeria/Pages/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
@@ -33,21 +42,24 @@
       <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Error.cshtml.cs" />
       <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Index.cshtml.cs" />
       <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Privacy.cshtml.cs" />
-      <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Index.cshtml" />
-      <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Checkout/Checkout.cshtml" />
       <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Checkout/ThankYou.cshtml" />
-      <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Forms/CustomPizza.cshtml" />
       <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Shared/_Layout.cshtml" />
       <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Pizza.cshtml" />
+      <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Forms/CustomPizza.cshtml" />
+      <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Checkout/Checkout.cshtml" />
+      <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Index.cshtml" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2FlA3DzudaXD5QUJG0URtiwBVaj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -96,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665056095935</updated>
-      <workItem from="1665056099185" duration="2049000" />
+      <workItem from="1665056099185" duration="3203000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented extensions Program.cs">
       <created>1665056243948</created>
@@ -147,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665058210469</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added pages">
+      <created>1665058652738</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665058652738</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +186,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Implemented extensions Program.cs" />
     <MESSAGE value="Implemented missing references" />
@@ -175,6 +195,7 @@
     <MESSAGE value="Added pages: Checkout, CustomPizza, Pizza and ThankYou" />
     <MESSAGE value="Added Pizza page to the navbar (_layout.cshtml)" />
     <MESSAGE value="Added image to main page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added image to main page" />
+    <MESSAGE value="Added pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added pages" />
   </component>
 </project>
