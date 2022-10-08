@@ -4,37 +4,17 @@
     <projectFile>RazorPizzeria/RazorPizzeria.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e04ea65-a323-4cd1-946b-94ffc0c5fe5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/razorpizzeria.metadata.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/razorpizzeria.projects.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/RazorPizzeria/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/RazorPizzeria/FileContentIndex/08fc8a3e-94f4-4833-96d0-ffa7de57cb4c.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/RazorPizzeria/v17/.futdcache.v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RazorPizzeria/Models/PizzasModel.cs" afterDir="false" />
+    <list default="true" id="7e04ea65-a323-4cd1-946b-94ffc0c5fe5c" name="Default Changelist" comment="Added custom pizzas maker">
+      <change afterPath="$PROJECT_DIR$/RazorPizzeria/Pages/Checkout/Checkout.cshtml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RazorPizzeria/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RazorPizzeria/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPizzeria/Pages/Checkout/Checkout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/Pages/Checkout/Checkout.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RazorPizzeria/Pages/Checkout/ThankYou.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/Pages/Checkout/ThankYou.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPizzeria/Pages/Forms/CustomPizza.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/Pages/Forms/CustomPizza.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPizzeria/Pages/Forms/CustomPizza.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/Pages/Forms/CustomPizza.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPizzeria/Pages/Pizza.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/Pages/Pizza.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPizzeria/RazorPizzeria.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/RazorPizzeria.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPizzeria/bin/Debug/net6.0/RazorPizzeria.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/bin/Debug/net6.0/RazorPizzeria.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RazorPizzeria/bin/Debug/net6.0/RazorPizzeria.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/bin/Debug/net6.0/RazorPizzeria.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RazorPizzeria/bin/Debug/net6.0/RazorPizzeria.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/bin/Debug/net6.0/RazorPizzeria.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/RazorPizzeria.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/RazorPizzeria.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/RazorPizzeria.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/RazorPizzeria.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/RazorPizzeria.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/RazorPizzeria.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/RazorPizzeria.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/RazorPizzeria.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/RazorPizzeria.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/RazorPizzeria.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/RazorPizzeria.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/RazorPizzeria.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/ref/RazorPizzeria.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/ref/RazorPizzeria.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/refint/RazorPizzeria.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/refint/RazorPizzeria.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/RazorPizzeria.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/RazorPizzeria.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/RazorPizzeria.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/RazorPizzeria.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/RazorPizzeria.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/RazorPizzeria.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPizzeria/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPizzeria/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,15 +39,16 @@
       <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Index.cshtml.cs" />
       <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Privacy.cshtml.cs" />
       <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Shared/_Layout.cshtml" />
-      <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Checkout/Checkout.cshtml" />
       <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Index.cshtml" />
       <option value="$PROJECT_DIR$/RazorPizzeria/wwwroot/css/site.css" />
       <option value="$PROJECT_DIR$/RazorPizzeria/obj/Debug/net6.0/RazorPizzeria.GlobalUsings.g.cs" />
       <option value="$PROJECT_DIR$/RazorPizzeria/Models/PizzasModel.cs" />
-      <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Checkout/ThankYou.cshtml" />
       <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Pizza.cshtml" />
       <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Forms/CustomPizza.cshtml" />
       <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Forms/CustomPizza.cshtml.cs" />
+      <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Checkout/Checkout.cshtml.cs" />
+      <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Checkout/Checkout.cshtml" />
+      <option value="$PROJECT_DIR$/RazorPizzeria/Pages/Checkout/ThankYou.cshtml" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2FlA3DzudaXD5QUJG0URtiwBVaj" />
@@ -132,7 +113,7 @@
       <updated>1665056095935</updated>
       <workItem from="1665056099185" duration="10059000" />
       <workItem from="1665211002296" duration="480000" />
-      <workItem from="1665211537349" duration="3551000" />
+      <workItem from="1665211537349" duration="5925000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented extensions Program.cs">
       <created>1665056243948</created>
@@ -204,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665207984149</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added custom pizzas maker">
+      <created>1665215383798</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665215383798</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +225,7 @@
     <MESSAGE value="Added pages" />
     <MESSAGE value="Done with home page" />
     <MESSAGE value="Created Pizzas page and added some css style" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Pizzas page and added some css style" />
+    <MESSAGE value="Added custom pizzas maker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added custom pizzas maker" />
   </component>
 </project>
