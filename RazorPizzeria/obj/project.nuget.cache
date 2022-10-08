@@ -1,9 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "SCBtKeWliIT+f42LGCOzLLyZjlCETnhQedhzfXZgkL6EhFwTPcCkR9fvg+hT1DAyQrG67W8a4uX5B7ufXFVNxA==",
+  "dgSpecHash": "3aBaRkseo0MANhPsyNPWvwKnwmdTc0OqDgWlEcnmA12Lkq75aDGgirAZo8SQkeD0vlsIsebM5eEEBdq4b/+bMQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\darja\\RiderProjects\\RazorPizzeria\\RazorPizzeria\\RazorPizzeria.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\darja\\.nuget\\packages\\microsoft.netcore.app\\2.2.8\\microsoft.netcore.app.2.2.8.nupkg.sha512",
+    "C:\\Users\\darja\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.8\\microsoft.netcore.dotnetapphost.2.2.8.nupkg.sha512",
+    "C:\\Users\\darja\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.8\\microsoft.netcore.dotnethostpolicy.2.2.8.nupkg.sha512",
+    "C:\\Users\\darja\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.8\\microsoft.netcore.dotnethostresolver.2.2.8.nupkg.sha512",
+    "C:\\Users\\darja\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.4\\microsoft.netcore.platforms.2.2.4.nupkg.sha512",
+    "C:\\Users\\darja\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\darja\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\darja\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.5\\microsoft.netcore.app.ref.6.0.5.nupkg.sha512",
     "C:\\Users\\darja\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.5\\microsoft.windowsdesktop.app.ref.6.0.5.nupkg.sha512",
     "C:\\Users\\darja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.5\\microsoft.aspnetcore.app.ref.6.0.5.nupkg.sha512",
